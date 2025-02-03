@@ -1,5 +1,4 @@
 <!-- Banner עליון – בדיוק כפי שבתמונה -->
-![Header Banner](https://cdn.hashnode.com/res/hashnode/image/upload/v1668335344966/4pUAO1-Zh.png?auto=compress,format&format=webp)
 
 # שלום, אני **MichoWorks** 👋
 
