@@ -1,112 +1,18 @@
-<!-- Banner עליון -->
-![Header Banner](https://)
+# 💫 About Me:
+<br>- 🚀 I'm currently working on a full-stack project integrating React and Node.js, aiming to build an intelligent task management application.  <br>- 🤝 I'm looking to collaborate on web or open-source projects with developers and creators who want to push innovation forward.  <br>- 💡 Ask me about JavaScript, Node.js, and how to seamlessly integrate front-end and back-end.  <br>- 🌟 Fun fact: Before I started coding, I worked in graphic design—now I blend that experience to create accessible interfaces with great user experiences.<br>
 
-<hr>
-<p align="center">
-  <img src="MichoWorks.png" alt="MichoWorks" align="center" />
-</p>
-<hr>
 
-<div align="center">
-  <h1>I'm MichoWorks!</h1>
-  <h4>I'm a passionate developer, system integrator, and networking expert. I specialize in web development, system engineering, and digital design.</h4>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MichoWorks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MichoWorks&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichoWorks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <p> <img src="https://komarev.com/ghpvc/?username=MichoWorks&label=Profile%20views&color=0e75b6&style=flat" alt="MichoWorks" align="center" /> </p>
-</div>
-
-<div align="center">
-🌱 I’m currently working with **HTML, CSS, JavaScript, PHP, NodeJS, Angular, SQL, React, Photoshop, Lightroom, Cisco, Wireshark** <br>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MichoWorks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MichoWorks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📬 Connect with me:
-
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/MichoWorks/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-    </a>
-    <a href="mailto:michoworks@example.com" target="_blank">
-      <img src="https://static-00.iconduck.com/assets.00/mail-icon-2048x2048-525ey8hu.png" alt="Email" width="40" height="40" />
-    </a>
-  </p>
-</div>
-
----
-
-### 🚀 Skills and Tools:
-
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" alt="Lightroom" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40" />
-  </p>
-</div>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-
-[![MichoWorks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichoWorks&show_icons=true&theme=radical)](https://github.com/MichoWorks)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichoWorks&layout=compact&theme=radical)](https://github.com/MichoWorks)
-
-</div>
-
----
-
-## 🌐 Visit my website: [MichoWorks.com](https://michoworks.com) 🌐
-
----
-
-### My Projects:
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <h3>Portfolio</h3>
-        <p>
-          Showcasing my projects and skills.
-        </p>
-        <p>
-          <a href="https://github.com/MichoWorks/Portfolio">➡️ Link to Project 📋</a><br>
-          <a href="https://michoworks.com">➡️ View Website 🌐</a>
-        </p>
-      </td>
-      <td valign="top">
-        <h3>Web App</h3>
-        <p>
-          A fully functional web application with authentication and database integration.
-        </p>
-        <p>
-          <a href="https://github.com/MichoWorks/WebApp">➡️ Link to Project 📋</a><br>
-        </p>
-      </td>
-      <td valign="top">
-        <h3>E-commerce Platform</h3>
-        <p>
-          A modern e-commerce platform built with React, Node.js, and MongoDB.
-        </p>
-        <p>
-          <a href="https://github.com/MichoWorks/Ecommerce">➡️ Link to Project 📋</a><br>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
