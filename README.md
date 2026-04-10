@@ -1,63 +1,84 @@
 <div align="center">
 
-# `> MichoWorks.exe`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,30:001a0f,60:00ff88,100:000000&text=MichoWorks&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20UI%20Engineer%20%7C%20System%20Builder&descAlignY=60&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=booting+profile...;access+granted.;full-stack+developer;ui-minded+system+builder;design+%2B+code+%2B+execution;building+clean+and+scalable+web+systems" alt="Typing SVG" />
+# MichoWorks
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Building+real-world+web+systems;Frontend+%2B+Backend+integration;Clean+UI+%2B+Strong+logic;Design-driven+development;Turning+ideas+into+products" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0d1117?style=for-the-badge&logo=ghost&logoColor=00FF41&labelColor=000000&color=00FF41" />
-<img src="https://img.shields.io/badge/STACK-FULL--STACK-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=00FF41&labelColor=000000&color=00FF41" />
-<img src="https://img.shields.io/badge/FOCUS-CLEAN%20SYSTEMS-0d1117?style=for-the-badge&logo=dependabot&logoColor=00FF41&labelColor=000000&color=00FF41" />
+<a href="https://github.com/MichoWorks">
+  <img src="https://img.shields.io/badge/GitHub-MichoWorks-000000?style=for-the-badge&logo=github&logoColor=00FF88" />
+</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MichoWorks&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=MichoWorks&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" />
 
 </div>
 
 ---
 
-## `whoami`
+## About Me
 
-```bash
-$ whoami
-MichoWorks
+name: Micho  
+role: Full-Stack Developer  
+specialty: UI + Backend Integration  
+focus: Real-world systems, performance, clean UX  
+background: Graphic Design → Development  
 
-$ role
-Full-Stack Developer / UI-Minded Builder / Creative Problem Solver
-
-$ mission
-Build modern web systems with clean UI, practical backend logic,
-good performance, and real-world usability.
-
-$ background
-Design-first mindset -> better interfaces, better products, better flow.
-```
+I build real-world digital systems — not just code.  
+Clean UI + Strong backend + Real usability.
 
 ---
 
-## `tech stack`
+## Real Projects (Live)
 
-Frontend, Backend, Tools (see GitHub badges)
+Pandora Systems  
+https://www.pandora-alarms.com/
+
+Eli German  
+https://eli-german-site.vercel.app/he
+
+Mobile Car Service  
+https://matan-mobile.vercel.app/
+
+DeFlowers  
+https://www.deflowers.org/
 
 ---
 
-## `featured projects`
+## Tech Stack
 
-- Full-Stack Platforms
-- UI / UX Focused Builds
-- Automation & Custom Solutions
-- Real-World Development
+HTML, CSS, JavaScript, Angular  
+PHP, Firebase, MySQL, MSSQL  
+Nginx, Apache, GitHub, Postman  
 
 ---
 
-## `terminal.log`
+## GitHub Stats
 
-```bash
-> build fast
-> keep it clean
-> make it scalable
-> design matters
-> ship useful things
-```
+https://github-readme-stats.vercel.app/api?username=MichoWorks  
+https://github-readme-stats.vercel.app/api/top-langs/?username=MichoWorks  
+
+---
+
+## Activity
+
+https://streak-stats.demolab.com?user=MichoWorks  
+
+---
+
+## Graph
+
+https://github-readme-activity-graph.vercel.app/graph?username=MichoWorks  
+
+---
+
+## Mindset
+
+build fast  
+keep it clean  
+make it scalable  
+design matters  
+ship useful things  
+
