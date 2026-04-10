@@ -1,57 +1,57 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=00ff88&text=MichoWorks&fontSize=80&fontColor=0d1117&animation=fadeIn&fontAlignY=40&desc=פיתוח%20מערכות%20Full-Stack%20%7C%20חוויית%20משתמש%20מתקדמת&descAlignY=62&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0d1117&text=MICHOWORKS&fontSize=100&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=CERTIFIED%20FULL-STACK%20ENGINEER%20%7C%20SYSTEM%20ARCHITECT&descAlignY=65&descSize=22" />
 
 <br/>
 
-[![Status](https://img.shields.io/badge/סטטוס-מבצעי-00ff88?style=for-the-badge&logoColor=black)](#)
-[![Location](https://img.shields.io/badge/מיקום-ישראל-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Work](https://img.shields.io/badge/זמין-לפרויקטים_חדשים-00ff88?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/CERTIFICATION-ENGINEERING_DIPLOMA-00ff88?style=for-the-badge)](#)
+[![Projects](https://img.shields.io/badge/SOLUTIONS-HIGH--VALUE_SYSTEMS-white?style=for-the-badge)](#)
+[![Stack](https://img.shields.io/badge/CORE-ANGULAR_%2F_NODE-007acc?style=for-the-badge&logo=angular)](#)
 
 ---
 
-<div dir="rtl">
-
-## 💡 קצת עלי
-אני מפתח **Full-Stack** עם תשוקה לבניית מוצרים דיגיטליים מקצה לקצה. השילוב בין הרקע שלי ב**עיצוב גרפי** ליכולות הפיתוח מאפשר לי לייצר מערכות שהן לא רק חזקות ויציבות, אלא גם נראות מעולה ונוחות לשימוש.
-
-* 🔭 **כרגע מתמקד:** באופטימיזציה של מערכות מסחר (E-commerce).
-* 🚀 **המוטו שלי:** קוד נקי, ביצועים גבוהים וחוויית משתמש ללא פשרות.
-* 🛠️ **מומחיות:** בניית ארכיטקטורה ב-Angular בשילוב Backend חזק.
+### 🛡️ Architecting High-Value Digital Infrastructure
+*Specializing in large-scale commercial systems, bridging the gap between elite design and robust engineering.*
 
 </div>
 
----
+## 🧬 Executive Summary
+I am a **Certified Software Engineer** with a proven track record of developing high-stakes digital products. My background in **Graphic Design** combined with deep technical expertise allows me to deliver systems that are not only aesthetically superior but architecturally sound.
 
-## 🚀 פרויקטים נבחרים (Live)
-<p align="right" dir="rtl">מערכות פעילות שפיתחתי ונמצאות בשימוש בשטח:</p>
-
-| לינק לאתר | תשתית טכנולוגית | תחום המערכת | שם הפרויקט |
-| :---: | :--- | :--- | ---: |
-| [**כניסה לאתר 🔗**](https://www.pandora-alarms.com/) | Angular / Custom Backend | מערכות מיגון ואבטחה | **Pandora Systems** |
-| [**כניסה לאתר 🔗**](https://eli-german-site.vercel.app/he) | High-End UI Architecture | מיתוג ונוכחות דיגיטלית | **Eli German** |
-| [**כניסה לאתר 🔗**](https://matan-mobile.vercel.app/) | E-commerce Logistics | שירותי רכב On-demand | **Mobile Car Service** |
-| [**כניסה לאתר 🔗**](https://www.deflowers.org/) | Commercial Commerce | פלטפורמת מסחר וקמעונאות | **DeFlowers** |
+* 🚀 **Value Driven:** Experience in building commercial platforms worth 10,000s of NIS.
+* 🏗️ **Scalability:** Focused on clean code, modular architecture, and cloud-native solutions.
+* 🎯 **Precision:** Turning complex business logic into seamless user experiences.
 
 ---
 
-## 🛠️ ארגז כלים טכנולוגי
+## 🚀 Featured Enterprise Projects (Live)
+| Project Name | Industry | Impact & Tech | Production Link |
+| :--- | :--- | :--- | :---: |
+| **Pandora Systems** | Security | Advanced Monitoring & Protection | [**LIVE DEPLOYMENT**](https://www.pandora-alarms.com/) |
+| **Eli German** | Branding | Premium Digital Presence Architecture | [**LIVE DEPLOYMENT**](https://eli-german-site.vercel.app/he) |
+| **Mobile Car Service** | Logistics | On-Demand E-commerce & Real-time Booking | [**LIVE DEPLOYMENT**](https://matan-mobile.vercel.app/) |
+| **DeFlowers** | Commerce | Scalable Retail Platform & Inventory Logic | [**LIVE DEPLOYMENT**](https://www.deflowers.org/) |
+
+---
+
+## 🛠️ Technical Ecosystem
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,firebase,php,mysql,mongodb,nginx,linux,git,figma,postman,vercel&perline=7" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,firebase,php,mysql,mongodb,nginx,linux,git,figma,postman,vercel,tailwind,sass&perline=8" />
 </div>
 
 ---
 
-## 📊 אבחון מערכת וביצועים
+## 📊 Performance & Analytics
 <div align="center">
 
 <table border="0">
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MichoWorks&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MichoWorks&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichoWorks&layout=compact&theme=dark&hide_border=true&title_color=00ff88&text_color=ffffff" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichoWorks&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88&text_color=ffffff" />
     </td>
   </tr>
 </table>
@@ -62,15 +62,16 @@
 
 ---
 
-## 📡 יצירת קשר
-<div align="center" dir="rtl">
+## 📡 Terminal: Establish Connection
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/גיטאהב-MichoWorks-000000?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/MichoWorks)
-[![Email](https://img.shields.io/badge/אימייל-שלח_הודעה-000000?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/MichoWorks)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:your-email@example.com)
 
 <br/>
 
 ```bash
-# התחלת התקשרות עם המערכת
-> sudo contact --user "Micho"
-> הקישור נוצר בהצלחה. בואו נבנה משהו גדול ביחד.
+# System Command: Initiate partnership
+$ micho-works --contact --for "Scalable Project"
+> Status: Connection ready. Let's build your next system.
