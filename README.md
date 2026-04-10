@@ -1,61 +1,63 @@
-<h1 align="center">MichoWorks</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer • System Builder • UI-minded Engineer</b>
-</p>
+# `> MichoWorks.exe`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+real-world+web+systems;Clean+code+%2B+clean+UI;Frontend+%E2%86%94+Backend+integration;Performance+focused+development" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=booting+profile...;access+granted.;full-stack+developer;ui-minded+system+builder;design+%2B+code+%2B+execution;building+clean+and+scalable+web+systems" alt="Typing SVG" />
 
----
+<br>
 
-## About
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0d1117?style=for-the-badge&logo=ghost&logoColor=00FF41&labelColor=000000&color=00FF41" />
+<img src="https://img.shields.io/badge/STACK-FULL--STACK-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=00FF41&labelColor=000000&color=00FF41" />
+<img src="https://img.shields.io/badge/FOCUS-CLEAN%20SYSTEMS-0d1117?style=for-the-badge&logo=dependabot&logoColor=00FF41&labelColor=000000&color=00FF41" />
 
-- Building full-stack applications that actually solve problems  
-- Strong focus on UX + clean architecture  
-- Background in design → better interfaces, not just code  
-- Working with modern web stacks and scalable systems  
-- Always optimizing performance, flow, and user experience  
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MichoWorks&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="profile views" />
+
+</div>
 
 ---
 
-## Stack
+## `whoami`
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/MSSQL-0A0A0A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
-  <img src="https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639"/>
-  <img src="https://img.shields.io/badge/Apache-0A0A0A?style=for-the-badge&logo=apache&logoColor=D22128"/>
-</p>
+```bash
+$ whoami
+MichoWorks
 
----
+$ role
+Full-Stack Developer / UI-Minded Builder / Creative Problem Solver
 
-## Stats
+$ mission
+Build modern web systems with clean UI, practical backend logic,
+good performance, and real-world usability.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichoWorks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichoWorks&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180"/>
-</p>
+$ background
+Design-first mindset -> better interfaces, better products, better flow.
+```
 
 ---
 
-## Activity
+## `tech stack`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MichoWorks&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+Frontend, Backend, Tools (see GitHub badges)
 
 ---
 
-## Philosophy
+## `featured projects`
+
+- Full-Stack Platforms
+- UI / UX Focused Builds
+- Automation & Custom Solutions
+- Real-World Development
+
+---
+
+## `terminal.log`
 
 ```bash
 > build fast
 > keep it clean
 > make it scalable
 > design matters
+> ship useful things
+```
